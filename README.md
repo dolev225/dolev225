@@ -1,10 +1,15 @@
 ## Hi there 👋
+I'm Dolev , a Devops engineer base in isreal
 
-<!--
-**dolev225/dolev225** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I foucus on building scalable infrastructure and CI/CD pipline , mostly working with 
+K8s,Terraform,AWS,Github actions
 
-Here are some ideas to get you started:
+I also enjoy archiecting cloud solutions and obsessed with monitoring and observability
 
+This is fresh profile where i will be sharing infrastructure as code automation scripts and 
+my home lab experiments . everything here is built for reliability and study purposes
+
+->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
