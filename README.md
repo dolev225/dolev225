@@ -10,3 +10,5 @@ This is fresh profile where i will be sharing infrastructure as code automation 
 my home lab experiments . everything here is built for reliability and study purposes
 
 ### 😄 Fun facts: 
+- I like coffec and tea
+- I like to lern new skils 
